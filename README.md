@@ -20,11 +20,9 @@ Check out my first website **[[course crafter](https://mcgill-course-crafter.ver
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/lucas-venugopal/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-venugopal/)
+
+
 
 ---
 
