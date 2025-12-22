@@ -12,7 +12,7 @@ I am a computer science student at McGill University, with a concentration in Ar
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Full Stack applications with PostgreSQL
-- 👨🏽‍💻​ Hackathons, see **[[devpost]([https://mcgill-course-crafter.vercel.app/](https://devpost.com/Lucasvngpl?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*1f8eqe6*_gcl_au*NTUxOTAyMTguMTc1OTUyNTgzNA..*_ga*NzU1MzM1NTg3LjE3NTk1MjU4MzQ.*_ga_0YHJK3Y10M*czE3NjY0MzA3MzkkbzI0JGcwJHQxNzY2NDMwODAwJGo2MCRsMCRoMA..))**!
+- 👨🏽‍💻​ Hackathons, see **[[devpost](https://devpost.com/Lucasvngpl?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*1f8eqe6*_gcl_au*NTUxOTAyMTguMTc1OTUyNTgzNA..*_ga*NzU1MzM1NTg3LjE3NTk1MjU4MzQ.*_ga_0YHJK3Y10M*czE3NjY0MzA3MzkkbzI0JGcwJHQxNzY2NDMwODAwJGo2MCRsMCRoMA..))**!
 
 Check out my first website **[[course crafter](https://mcgill-course-crafter.vercel.app/))**!
 
