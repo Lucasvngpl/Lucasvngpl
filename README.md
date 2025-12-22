@@ -3,7 +3,7 @@
 ---
 
 ## 💫 About Me:
-I am a computer science student at McGill University, with a concentration in Artificial Intelligence, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I'm a computer science student with a concentration in Artificial Intelligence at McGill University. My main academic interests are programming languages, database systems, and deep learning. I enjoy building things with other people, especially when it comes to hackathons and creating small solutions for myself, such as a tool to guide my course selection intelligently.
 
 
 ---
@@ -20,8 +20,6 @@ I am a computer science student at McGill University, with a concentration in Ar
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-venugopal/)
-
-
 
 ---
 
@@ -42,11 +40,9 @@ I am a computer science student at McGill University, with a concentration in Ar
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ### Frameworks:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### Libraries:
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -54,5 +50,4 @@ I am a computer science student at McGill University, with a concentration in Ar
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4F8B?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-4B8BBE?style=flat)
-
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
