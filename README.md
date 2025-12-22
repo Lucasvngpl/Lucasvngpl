@@ -12,6 +12,7 @@ I am a computer science student at McGill University, with a concentration in Ar
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Full Stack applications with PostgreSQL
+- 👨🏽‍💻​ Hackathons, see **[[devpost]([https://mcgill-course-crafter.vercel.app/](https://devpost.com/Lucasvngpl?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*1f8eqe6*_gcl_au*NTUxOTAyMTguMTc1OTUyNTgzNA..*_ga*NzU1MzM1NTg3LjE3NTk1MjU4MzQ.*_ga_0YHJK3Y10M*czE3NjY0MzA3MzkkbzI0JGcwJHQxNzY2NDMwODAwJGo2MCRsMCRoMA..)))**!
 
 Check out my first website **[[course crafter](https://mcgill-course-crafter.vercel.app/))**!
 
@@ -34,7 +35,7 @@ Check out my first website **[[course crafter](https://mcgill-course-crafter.ver
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 ### Developer Tools:
