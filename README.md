@@ -3,16 +3,20 @@
 ---
 
 ## 💫 About Me:
-I'm a computer science student with a concentration in Artificial Intelligence at McGill University. My main academic interests are programming languages, database systems, and deep learning. I enjoy building things with other people, especially when it comes to hackathons and creating small solutions for myself, such as a tool to guide my course selection intelligently.
+I'm a computer science student with a concentration in Artificial Intelligence at McGill University. My main academic interests are software development, database systems, and deep learning. I enjoy building opinionated software products for people, owning the design and the engineering. 
+<p align="center"><i>building at the intersection of AI, design, and consumer software</i></p>
 
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Building
 
-- 💻 Building McGill's first virtual course assistant, check out **[[course crafter](https://mcgill-course-crafter.vercel.app/))**!
-- 👨🏽‍💻​ Hackathons, see **[[devpost](https://devpost.com/Lucasvngpl?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&_gl=1*1f8eqe6*_gcl_au*NTUxOTAyMTguMTc1OTUyNTgzNA..*_ga*NzU1MzM1NTg3LjE3NTk1MjU4MzQ.*_ga_0YHJK3Y10M*czE3NjY0MzA3MzkkbzI0JGcwJHQxNzY2NDMwODAwJGo2MCRsMCRoMA..))**!
 - 🤖 Full stack engineer for UQwest, tying together the study abroad process all in one platform.
+- 📺 Built **Pilot**, a Letterboxd for TV. Log episodes, rate, review, and follow friends to find your next watch. React Native + Supabase, with a self-caching TMDb layer underneath.
+- 🧠 Built a **second brain**, a private, local-first app that turns your notes and journals (even handwritten, via OCR) into a multimodal memory you can talk to. Embeddings + RAG over your own life, with switchable local and cloud models. [See demo here](https://www.linkedin.com/posts/lucas-venugopal_wanted-to-share-something-ive-been-building-activity-7458665175966154752-xLBc)!
+- 🎓 Built **McGill CourseCraft**, an AI course-planning assistant: prerequisite lookups, program comparisons, and reverse prereq search over McGill's catalog, check it out **[[course crafter](https://mcgill-course-crafter.vercel.app/))**!
+- 👨🏽‍💻 Hackathons, see my **[Devpost](https://devpost.com/Lucasvngpl)**
+
 
 
 ---
@@ -20,6 +24,7 @@ I'm a computer science student with a concentration in Artificial Intelligence a
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-venugopal/)
+[![Instagram](https://img.shields.io/badge/lvhacks-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lvhacks/)
 
 ---
 
@@ -35,9 +40,11 @@ I'm a computer science student with a concentration in Artificial Intelligence a
 
 ### Developer Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Frameworks:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
