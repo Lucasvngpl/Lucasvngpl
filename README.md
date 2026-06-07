@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋 I'm Lucas Venugopal</h1>
+<p align="center"><i>building at the intersection of AI, design, and consumer software</i></p>
 
 ---
 
 ## 💫 About Me:
 I'm a computer science student with a concentration in Artificial Intelligence at McGill University. My main academic interests are software development, database systems, and deep learning. I enjoy building opinionated software products for people, owning the design and the engineering. 
-<p align="center"><i>building at the intersection of AI, design, and consumer software</i></p>
+
 
 
 ---
