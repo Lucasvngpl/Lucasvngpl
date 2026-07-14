@@ -13,9 +13,10 @@ I'm a computer science student with a concentration in Artificial Intelligence a
 ## 🚀 What I'm Building
 
 - 🤖 Full stack engineer for UQwest, tying together the study abroad process all in one platform.
+- 👾 AI engineer at Apresvente.ai, building the agentic customer success platform
 - 📺 Built **Pilot**, a Letterboxd for TV. Log episodes, rate, review, and follow friends to find your next watch. React Native + Supabase, with a self-caching TMDb layer underneath.
 - 🧠 Built a **second brain**, a private, local-first app that turns your notes and journals (even handwritten, via OCR) into a multimodal memory you can talk to. Embeddings + RAG over your own life, with switchable local and cloud models. [See demo here](https://www.linkedin.com/posts/lucas-venugopal_wanted-to-share-something-ive-been-building-activity-7458665175966154752-xLBc)!
-- 🎓 Built **McGill CourseCraft**, an AI course-planning assistant: prerequisite lookups, program comparisons, and reverse prereq search over McGill's catalog, check it out **[[course crafter](https://mcgill-course-crafter.vercel.app/))**!
+- 🎓 Built **McGill CourseCraft**, an AI course-planning assistant: prerequisite lookups, program comparisons, and reverse prereq search over McGill's catalog, check it out **[[course crafter](https://mcgill-course-crafter.vercel.app/))**! (DB temporarily down)
 - 👨🏽‍💻 Hackathons, see my **[Devpost](https://devpost.com/Lucasvngpl)**
 
 
