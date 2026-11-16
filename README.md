@@ -9,7 +9,7 @@ I'm a computer science student with a concentration in Artificial Intelligence a
 
 ## 🚀 What I'm Building
 
-- 📺 Founder of **Pilot**, a Goodreads for TV. Log episodes, rate, review, and follow friends to find your next watch. React Native + Supabase, with a self-caching TMDb layer underneath. Give it a download here [App](https://pilottv.app/)
+- 📺 Founder of **Pilot**, a Goodreads for TV. Log episodes, rate, review, and follow friends to find your next binge watch. React Native + Supabase, with a self-caching TMDb layer underneath. Give it a download here [App](https://pilottv.app/)!
 - 🤖 Full stack engineer at **UQwest**, tying together the whole study abroad process in one platform.
 - 👾 Previously AI engineer at **Apresvente.ai**, through MILA venture scientists accelerator, worked on marketing site and agent design of agentic customer success platform.
 - 🦫 Architected **Groundhog**, an order-to-cash agent that verifies data deliveries against a contract before releasing payment. Hyphenate Track Prize at Cal Hacks 13.0. [Devpost](https://devpost.com/software/datapack)
