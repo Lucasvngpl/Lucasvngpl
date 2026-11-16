@@ -11,7 +11,7 @@ I'm a computer science student with a concentration in Artificial Intelligence a
 
 - 📺 Founder of **Pilot**, a Goodreads for TV. Log episodes, rate, review, and follow friends to find your next binge watch. React Native + Supabase, with a self-caching TMDb layer underneath. Give it a download here [App](https://pilottv.app/)!
 - 🤖 Full stack engineer at **UQwest**, tying together the whole study abroad process in one platform.
-- 👾 Previously AI engineer at **Apresvente.ai**, through MILA venture scientists accelerator, worked on marketing site and agent design of agentic customer success platform.
+- 👾 Previously software engineer at **Apresvente.ai**, through MILA venture scientists accelerator, worked on marketing site and agent design of agentic customer success platform.
 - 🦫 Architected **Groundhog**, an order-to-cash agent that verifies data deliveries against a contract before releasing payment. Hyphenate Track Prize at Cal Hacks 13.0. [Devpost](https://devpost.com/software/datapack)
 - 🧠 Built a **second brain**, a private, local-first app that turns your notes and journals (even handwritten, via OCR) into a multimodal memory you can talk to. Embeddings + RAG over your own life, with switchable local and cloud models. [See the demo](https://www.linkedin.com/posts/lucas-venugopal_wanted-to-share-something-ive-been-building-activity-7458665175966154752-xLBc)
 - 🎓 Built **McGill CourseCraft**, an AI course-planning assistant: prerequisite lookups, program comparisons, and reverse prereq search over McGill's catalog. [Try it](https://mcgill-course-crafter.vercel.app/)
